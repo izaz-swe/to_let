@@ -63,7 +63,7 @@ export const nav = [
     },
     {
       id: 2,
-      cover: "../images/list/p-2.png",
+      cover: "../images/list/p-1.png",
       name: "Fairmount Properties",
       location: "5698 Zirak Road, NewYork",
       category: "For Sale",
@@ -72,7 +72,7 @@ export const nav = [
     },
     {
       id: 3,
-      cover: "../images/list/p-7.png",
+      cover: "../images/list/p-1.png",
       name: "The Real Estate Corner",
       location: "5624 Mooker Market, USA",
       category: "For Rent",
@@ -81,7 +81,7 @@ export const nav = [
     },
     {
       id: 4,
-      cover: "../images/list/p-4.png",
+      cover: "../images/list/p-1.png",
       name: "Herringbone Realty",
       location: "5621 Liverpool, London",
       category: "For Sale",
@@ -90,7 +90,7 @@ export const nav = [
     },
     {
       id: 5,
-      cover: "../images/list/p-5.png",
+      cover: "../images/list/p-1.png",
       name: "Brick Lane Realty",
       location: "210 Montreal Road, Canada",
       category: "For Rent",
@@ -99,7 +99,7 @@ export const nav = [
     },
     {
       id: 6,
-      cover: "../images/list/p-6.png",
+      cover: "../images/list/p-1.png",
       name: "Banyon Tree Realty",
       location: "210 Zirak Road, Canada",
       category: "For Sale",
@@ -144,7 +144,7 @@ export const nav = [
       Villas: "12 Villas",
       Apartments: "10 Apartments",
       Offices: "07 Offices",
-      cover: "./images/location/city-2.png",
+      cover: "./images/location/city-1.png",
     },
     {
       id: 3,
@@ -152,7 +152,7 @@ export const nav = [
       Villas: "12 Villas",
       Apartments: " 10 Apartments",
       Offices: "07 Offices",
-      cover: "./images/location/city-3.png",
+      cover: "./images/location/city-1.png",
     },
     {
       id: 4,
@@ -160,7 +160,7 @@ export const nav = [
       Villas: "12 Villas",
       Apartments: " 10 Apartments",
       Offices: "07 Offices",
-      cover: "./images/location/city-4.png",
+      cover: "./images/location/city-1.png",
     },
     {
       id: 5,
@@ -168,7 +168,7 @@ export const nav = [
       Villas: "12 Villas",
       Apartments: " 10 Apartments",
       Offices: "07 Offices",
-      cover: "./images/location/city-5.png",
+      cover: "./images/location/city-1.png",
     },
     {
       id: 6,
@@ -176,7 +176,7 @@ export const nav = [
       Villas: "12 Villas",
       Apartments: " 10 Apartments",
       Offices: "07 Offices",
-      cover: "./images/location/city-6.png",
+      cover: "./images/location/city-1.png",
     },
   ]
   export const team = [
@@ -189,35 +189,35 @@ export const nav = [
     },
     {
       list: "70",
-      cover: "../images/customer/team-2.jpg",
+      cover: "../images/customer/team-1.jpg",
       address: "Montreal, Canada",
       name: "Harijeet M. Siller",
       icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
     },
     {
       list: "80",
-      cover: "../images/customer/team-3.jpg",
+      cover: "../images/customer/team-1.jpg",
       address: "Denever, USA",
       name: "Anna K. Young",
       icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
     },
     {
       list: "51",
-      cover: "../images/customer/team-4.jpg",
+      cover: "../images/customer/team-1.jpg",
       address: "2272 Briarwood Drive",
       name: "Michael P. Grimaldo",
       icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
     },
     {
       list: "42",
-      cover: "../images/customer/team-5.jpg",
+      cover: "../images/customer/team-1.jpg",
       address: "2272 Briarwood Drive",
       name: "Michael P. Grimaldo",
       icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
     },
     {
       list: "38",
-      cover: "../images/customer/team-5.jpg",
+      cover: "../images/customer/team-1.jpg",
       address: "Montreal, USA",
       name: "Adam K. Jollio",
       icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
